@@ -149,3 +149,4 @@ One additional step for WD 1TB 2230 NVME SSD is to run modify-cmdline to add mem
 
 As of July 15th, 2023, Depthboot Fedora 38 is my daily driver. Quite happy with the performance!
 
+### Changes made by prathmesh ##
